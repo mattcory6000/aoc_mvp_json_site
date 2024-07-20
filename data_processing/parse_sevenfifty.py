@@ -1,5 +1,6 @@
 import pandas as pd
 import json
+import os
 
 
 def parse_tags(tag):
@@ -15,6 +16,9 @@ def parse_tags(tag):
 def parse_data(input_file, output_file):
     # Read the input file (XLSX)
     df = pd.read_excel(input_file)
+
+    # Replace NaN values with "" or another placeholder
+    df = df.fillna("")
 
     # Initialize the data structure
     data = {"countries": [], "producers": [], "products": []}
@@ -93,6 +97,12 @@ def parse_data(input_file, output_file):
 
 
 if __name__ == "__main__":
-    input_file = "../data/sevenfifty-wines.xlsx"
-    output_file = "../data/data.json"
+    # Adjust the paths to the input and output files
+    input_file = os.path.join("data", "sevenfifty-wines.xlsx")
+    output_file = os.path.join("data", "data.json")
+
+    # Check if the input file exists before attempting to read it
+    if not os.path.exists(input_file):
+        raise FileNotFoundError(f"Input file not found: {input_file}")
+
     parse_data(input_file, output_file)
