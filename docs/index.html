@@ -32,14 +32,23 @@
 
   <script>
     document.addEventListener("DOMContentLoaded", function() {
-      fetch('data/data.json')
-        .then(response => response.json())
+      console.log("Document loaded, attempting to fetch data.json...");
+      fetch('../data/data.json')
+        .then(response => {
+          if (!response.ok) {
+            throw new Error('Network response was not ok');
+          }
+          return response.json();
+        })
         .then(data => {
+          console.log("Data fetched successfully:", data);
           const countryList = document.getElementById('country-list');
           data.countries.forEach(country => {
-            const li = document.createElement('li');
-            li.textContent = country.name;
-            countryList.appendChild(li);
+            if (country.name) { // Check for valid country names
+              const li = document.createElement('li');
+              li.textContent = country.name;
+              countryList.appendChild(li);
+            }
           });
         })
         .catch(error => console.error('Error fetching the JSON data:', error));
