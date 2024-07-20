@@ -93,6 +93,6 @@ def parse_data(input_file, output_file):
 
 
 if __name__ == "__main__":
-    input_file = "sevenfifty-wines.xlsx"
-    output_file = "data.json"
+    input_file = "../data/sevenfifty-wines.xlsx"
+    output_file = "../data/data.json"
     parse_data(input_file, output_file)
