@@ -1,0 +1,58 @@
+<!doctype html>
+<html class="no-js" lang="">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Wine Portfolio</title>
+  <link rel="stylesheet" href="css/style.css">
+  <meta name="description" content="">
+
+  <meta property="og:title" content="">
+  <meta property="og:type" content="">
+  <meta property="og:url" content="">
+  <meta property="og:image" content="">
+  <meta property="og:image:alt" content="">
+
+  <link rel="icon" href="favicon.ico" sizes="any">
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icon.png">
+
+  <link rel="manifest" href="site.webmanifest">
+  <meta name="theme-color" content="#fafafa">
+</head>
+
+<body>
+
+  <!-- Add your site or application content here -->
+  <h1>Wine Portfolio</h1>
+  <h2>Countries</h2>
+  <ul id="country-list"></ul>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      console.log("Document loaded, attempting to fetch data.json...");
+      fetch('data.json')
+        .then(response => {
+          if (!response.ok) {
+            throw new Error('Network response was not ok');
+          }
+          return response.json();
+        })
+        .then(data => {
+          console.log("Data fetched successfully:", data);
+          const countryList = document.getElementById('country-list');
+          data.countries.forEach(country => {
+            if (country.name) { // Check for valid country names
+              const li = document.createElement('li');
+              li.textContent = country.name;
+              countryList.appendChild(li);
+            }
+          });
+        })
+        .catch(error => console.error('Error fetching the JSON data:', error));
+    });
+  </script>
+</body>
+
+</html>
