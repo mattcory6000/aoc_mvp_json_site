@@ -17,8 +17,8 @@ def parse_data(input_file, output_file):
     # Read the input file (XLSX)
     df = pd.read_excel(input_file)
 
-    # Replace NaN values with "" or another placeholder
-    df = df.fillna("")
+    # Replace NaN values with "Unknown" or another placeholder
+    df = df.fillna("Unknown")
 
     # Initialize the data structure
     data = {"countries": [], "producers": [], "products": []}
@@ -70,6 +70,9 @@ def parse_data(input_file, output_file):
 
         producer_id = producer_id_map[producer_name]
 
+        # Concatenated string for search purposes
+        search_string = f"{product_name} {country_name} {region} {appellation} {varietal} {importer}".lower()
+
         # Handle product
         product_entry = {
             "name": product_name,
@@ -87,6 +90,7 @@ def parse_data(input_file, output_file):
             "wine_upc": wine_upc,
             "quantity_on_hand": quantity_on_hand,
             "available": available,
+            "search_string": search_string,
         }
         product_entry.update(parse_tags(tag))
         data["products"].append(product_entry)
@@ -97,9 +101,8 @@ def parse_data(input_file, output_file):
 
 
 if __name__ == "__main__":
-    # Adjust the paths to the input and output files
     input_file = os.path.join("data", "sevenfifty-wines.xlsx")
-    output_file = os.path.join("data", "data.json")
+    output_file = os.path.join("docs", "data.json")
 
     # Check if the input file exists before attempting to read it
     if not os.path.exists(input_file):
