@@ -8,7 +8,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
   <link rel="stylesheet" href="css/style.css">
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-Fo3rlrZj/k7ujTnHgSpEmN0nLFxt6+8Nu9YAbI2XgshHe2R4d+RtWJ4Z2w6fE6GHtRw5oGQZFSZ4oOhbVxrLg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 
 <body>
@@ -37,7 +37,7 @@
               if (country.name) { // Check for valid country names
                 const div = document.createElement('div');
                 div.className = 'card';
-                div.innerHTML = `<a href="#">${country.name}</a>`;
+                div.innerHTML = `<a href="producers.html?country_id=${country.id}">${country.name}</a>`;
                 countryList.appendChild(div);
               }
             });

@@ -26,6 +26,7 @@ def parse_data(input_file, output_file):
     # Track unique countries and producers
     country_id_map = {}
     producer_id_map = {}
+    producer_market_map = {}
     next_country_id = 1
     next_producer_id = 1
 
@@ -59,11 +60,13 @@ def parse_data(input_file, output_file):
         # Handle producer
         if producer_name not in producer_id_map:
             producer_id_map[producer_name] = next_producer_id
+            producer_market_map[producer_name] = parse_tags(tag)
             data["producers"].append(
                 {
                     "id": next_producer_id,
                     "name": producer_name,
                     "country_id": country_id,
+                    **producer_market_map[producer_name],
                 }
             )
             next_producer_id += 1
@@ -102,7 +105,7 @@ def parse_data(input_file, output_file):
 
 if __name__ == "__main__":
     input_file = os.path.join("data", "sevenfifty-wines.xlsx")
-    output_file = os.path.join("docs", "data.json")
+    output_file = os.path.join("docs", "data.json")  # Updated path
 
     # Check if the input file exists before attempting to read it
     if not os.path.exists(input_file):

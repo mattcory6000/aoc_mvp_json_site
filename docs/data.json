@@ -125,2272 +125,4542 @@
         {
             "id": 1,
             "name": "Adami",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": false,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 2,
             "name": "Agn\u00e8s & Ren\u00e9 Mosse",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": false,
+            "knoxville": false,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 3,
             "name": "El Hombre Bala & Agricola de Cadalso",
-            "country_id": 3
+            "country_id": 3,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 4,
             "name": "Agri Segretum",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 5,
             "name": "Aia Vecchia",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 6,
             "name": "A.J. Adam",
-            "country_id": 4
+            "country_id": 4,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 7,
             "name": "Albamar",
-            "country_id": 3
+            "country_id": 3,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 8,
             "name": "Alberto Voerzio",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 9,
             "name": "Al-Cantara",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 10,
             "name": "Aldo Viola",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 11,
             "name": "Alexakis",
-            "country_id": 5
+            "country_id": 5,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 12,
             "name": "Alkoomi Wines",
-            "country_id": 6
+            "country_id": 6,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 13,
             "name": "Alois Lageder",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": false,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 14,
             "name": "Amai Kuchibiru",
-            "country_id": 7
+            "country_id": 7,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 15,
             "name": "Ampeleia",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 16,
             "name": "Andeval",
-            "country_id": 8
+            "country_id": 8,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 17,
             "name": "Angelo Negro",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 18,
             "name": "Aqara",
-            "country_id": 9
+            "country_id": 9,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 19,
             "name": "Aruk Brun",
-            "country_id": 10
+            "country_id": 10,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 20,
             "name": "Arnot-Roberts",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 21,
             "name": "Astobiza",
-            "country_id": 3
+            "country_id": 3,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 22,
             "name": "Atance",
-            "country_id": 3
+            "country_id": 3,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 23,
             "name": "Atlante",
-            "country_id": 3
+            "country_id": 3,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 24,
             "name": "Averaen",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 25,
             "name": "Santa Barbara",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 26,
             "name": "Azul y Garanza",
-            "country_id": 3
+            "country_id": 3,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 27,
             "name": "Bacchus",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 28,
             "name": "Bailoni",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 29,
             "name": "Ballykeefe",
-            "country_id": 12
+            "country_id": 12,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 30,
             "name": "Batiso",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 31,
             "name": "Bedrock",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 32,
             "name": "Bench",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 33,
             "name": "Benito Santos",
-            "country_id": 3
+            "country_id": 3,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 34,
             "name": "Domaine Benjamin Taillandier",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 35,
             "name": "Bergkloster",
-            "country_id": 12
+            "country_id": 12,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 36,
             "name": "Los Bermejos",
-            "country_id": 3
+            "country_id": 3,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 37,
             "name": "Domaine Bernard Baudry",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": false,
+            "knoxville": false,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 38,
             "name": "Vignobles Levet",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 39,
             "name": "Bianca Vigna",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 40,
             "name": "Big Basin",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 41,
             "name": "Bimini",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 42,
             "name": "Bisson",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 43,
             "name": "Domaine Bitouzet-Prieur",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 44,
             "name": "The Blacksmith",
-            "country_id": 13
+            "country_id": 13,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 45,
             "name": "Bodega Hermanos Mesa",
-            "country_id": 3
+            "country_id": 3,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 46,
             "name": "La Horra",
-            "country_id": 3
+            "country_id": 3,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 47,
             "name": "Bodega Sanchez",
-            "country_id": 3
+            "country_id": 3,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 48,
             "name": "Bodegas las Orcas",
-            "country_id": 3
+            "country_id": 3,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 49,
             "name": "Menade",
-            "country_id": 3
+            "country_id": 3,
+            "chattanooga": true,
+            "knoxville": false,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 50,
             "name": "Domaine Bois de Boursan",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 51,
             "name": "Bordiga",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 52,
             "name": "Boschkloof",
-            "country_id": 13
+            "country_id": 13,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 53,
             "name": "Bossanova",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 54,
             "name": "Botijo",
-            "country_id": 3
+            "country_id": 3,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 55,
             "name": "Phelan Farm & Brij Wines",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 56,
             "name": "Brisa Suave",
-            "country_id": 14
+            "country_id": 14,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 57,
             "name": "Brkic",
-            "country_id": 15
+            "country_id": 15,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 58,
             "name": "Brovia",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 59,
             "name": "Bruno Giacometto",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 60,
             "name": "Cacique Maravilla",
-            "country_id": 16
+            "country_id": 16,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 61,
             "name": "Cadre",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 62,
             "name": "Campet Ste. Marie",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 63,
             "name": "Cantina Massara",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 64,
             "name": "Cappellano",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 65,
             "name": "Capurro Pisco",
-            "country_id": 9
+            "country_id": 9,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 66,
             "name": "Casa Setaro",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 67,
             "name": "Cascina Luisin",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 68,
             "name": "Castelli",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 69,
             "name": "Castell'in Villa",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 70,
             "name": "Castello di Ama",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": false,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 71,
             "name": "Castello di Montep\u00f2",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 72,
             "name": "Folklore - Bodega Cerro Chapeu",
-            "country_id": 17
+            "country_id": 17,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 73,
             "name": "Recaredo",
-            "country_id": 3
+            "country_id": 3,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 74,
             "name": "Cave Caloz",
-            "country_id": 18
+            "country_id": 18,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 75,
             "name": "Cave de Vieux Moulin",
-            "country_id": 18
+            "country_id": 18,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 76,
             "name": "Cecilla Monte",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 77,
             "name": "Cellar Pardas",
-            "country_id": 3
+            "country_id": 3,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 78,
             "name": "Celler Credo (Recaredo)",
-            "country_id": 3
+            "country_id": 3,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 79,
             "name": "Celler Jan Vidal",
-            "country_id": 3
+            "country_id": 3,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 80,
             "name": "Centopassi",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 81,
             "name": "Bodega Cerro Chapeu",
-            "country_id": 17
+            "country_id": 17,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 82,
             "name": "Romain Chamiot",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 83,
             "name": "Champagne Brice",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 84,
             "name": "Champagne Gamet",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 85,
             "name": "Champagne Jeeper",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 86,
             "name": "Champagne Ruppert-Leroy",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 87,
             "name": "Ch\u00e2teau Auney l\u2019Hermitage",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 88,
             "name": "Cha\u0302teau de Chaintres",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 89,
             "name": "Ch\u00e2teau de Fargues",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 90,
             "name": "Ch\u00e2teau La Noe",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 91,
             "name": "Ch\u00e2teau De Millet",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 92,
             "name": "Ch\u00e2teau d'Oupia",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": false,
+            "knoxville": false,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 93,
             "name": "Ch\u00e2teau Fonsalade",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 94,
             "name": "Ch\u00e2teau Guilhem",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 95,
             "name": "Ch\u00e2teau Guiot",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": false
         },
         {
             "id": 96,
             "name": "Ch\u00e2teau Haut-Segottes",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 97,
             "name": "Chateau Lansade",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 98,
             "name": "L'Escart",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 99,
             "name": "Chateau Les Mesclances",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 100,
             "name": "Chateau Milon",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 101,
             "name": "Chateau Moron",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 102,
             "name": "Chateau Moulinat",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 103,
             "name": "Ch\u00e2teau Peybonhomme-Les-Tours",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 104,
             "name": "Chateau Pombrede",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 105,
             "name": "Chateau Saint Seurin",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 106,
             "name": "Ch\u00e2teau Simone",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 107,
             "name": "Cha\u0302teau Soucherie",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 108,
             "name": "Chateau Yvonne",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 109,
             "name": "Cherouche",
-            "country_id": 12
+            "country_id": 12,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 110,
             "name": "Chessa",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 111,
             "name": "Chinati Vergano",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": false,
+            "knoxville": false,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 112,
             "name": "Christoph Hoch",
-            "country_id": 19
+            "country_id": 19,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 113,
             "name": "Cincinnato",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 114,
             "name": "Cirelli",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 115,
             "name": "Ciro Picariello",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 116,
             "name": "Clai Wines",
-            "country_id": 20
+            "country_id": 20,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 117,
             "name": "Hannes & Claudiu",
-            "country_id": 12
+            "country_id": 12,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 118,
             "name": "Clementi",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 119,
             "name": "Cleto Chiarli",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 120,
             "name": "Clic",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 121,
             "name": "Clos de la Roilette",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": false,
+            "knoxville": false,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 122,
             "name": "Closerie du Pelan",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 123,
             "name": "Clos Lentiscus",
-            "country_id": 3
+            "country_id": 3,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 124,
             "name": "Cocito",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 125,
             "name": "Colab & Bloom",
-            "country_id": 6
+            "country_id": 6,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 126,
             "name": "Colonara",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 127,
             "name": "Railsback Fr\u00e8res",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 128,
             "name": "Badia A Coltibuono",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": false,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 129,
             "name": "Ch\u00e2teau Combel la Serre",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": false,
+            "knoxville": false,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 130,
             "name": "Conquilla",
-            "country_id": 3
+            "country_id": 3,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 131,
             "name": "Conti",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 132,
             "name": "Contrade",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": false,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 133,
             "name": "Coquelet",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": false,
+            "knoxville": false,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 134,
             "name": "Cora",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 135,
             "name": "Cottanera",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 136,
             "name": "Craven",
-            "country_id": 13
+            "country_id": 13,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 137,
             "name": "Croci Tenuta Vitivinicola",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": false,
+            "knoxville": false,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 138,
             "name": "Danilo Thomain",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 139,
             "name": "Death & Co x The Craft Spirits Cooperative",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 140,
             "name": "De Forville",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 141,
             "name": "De Levende",
-            "country_id": 12
+            "country_id": 12,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 142,
             "name": "Deux Moulins",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 143,
             "name": "Anza - Diego Maga\u00f1a",
-            "country_id": 3
+            "country_id": 3,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 144,
             "name": "Digby",
-            "country_id": 21
+            "country_id": 21,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 145,
             "name": "Distillerie du St. Laurent",
-            "country_id": 22
+            "country_id": 22,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 146,
             "name": "D. Marioni",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 147,
             "name": "Domaine a Deux",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 148,
             "name": "Domaine Ansen",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 149,
             "name": "Domaine Bibich",
-            "country_id": 23
+            "country_id": 23,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 150,
             "name": "Domaine Bonnet-Cotton",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 151,
             "name": "Domaine Bruno Cormerais",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 152,
             "name": "Domaine Cordier",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 153,
             "name": "Domaine de Bois Moz\u00e9",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 154,
             "name": "Domaine de Fenouillet",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 155,
             "name": "Domaine Gour de Chaul\u00e9",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 156,
             "name": "Domaine de la Quilla",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 157,
             "name": "Domaine de l\u2019Estang",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 158,
             "name": "Domaine de L'Oubli\u00e9e",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": false,
+            "knoxville": false,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 159,
             "name": "Domaine de Majas",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": false,
+            "knoxville": false,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 160,
             "name": "Domaine des Miroirs",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 161,
             "name": "Domaine du Bagnol",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 162,
             "name": "Jean-Paul Dubost",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 163,
             "name": "Domaine du Chapitre",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 164,
             "name": "Domaine du Closel",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": false,
+            "knoxville": false,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 165,
             "name": "Domaine du Possible",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": false,
+            "knoxville": false,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 166,
             "name": "Domaine Grosbois",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 167,
             "name": "Domaine J Boulon",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": false
         },
         {
             "id": 168,
             "name": "Domaine La Colombe",
-            "country_id": 18
+            "country_id": 18,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 169,
             "name": "Domaine La Manarine",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 170,
             "name": "Olivier Pithon",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 171,
             "name": "Rollin",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 172,
             "name": "Domaine Saint Andeol",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 173,
             "name": "Domaines Vinet",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 174,
             "name": "Domaine Ventoura",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 175,
             "name": "Gail Wines",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 176,
             "name": "Du Cropio",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 177,
             "name": "DuPuis",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 178,
             "name": "Domaine Edmond Cornu & Fils",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 179,
             "name": "Elena Walch",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 180,
             "name": "Equipo Navazos",
-            "country_id": 3
+            "country_id": 3,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 181,
             "name": "Bodegas Mas Que Vinos",
-            "country_id": 3
+            "country_id": 3,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 182,
             "name": "Ercole",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 183,
             "name": "Eric Teixer",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": false,
+            "knoxville": false,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 184,
             "name": "Ermes Pavese",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 185,
             "name": "Erste + Neue",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 186,
             "name": "Fable",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 187,
             "name": "Fable Mt Vineyards",
-            "country_id": 13
+            "country_id": 13,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 188,
             "name": "FAIR",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 189,
             "name": "Famille de Boel France",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 190,
             "name": "Familia Geisse",
-            "country_id": 24
+            "country_id": 24,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 191,
             "name": "Ferrando",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 192,
             "name": "Figli Luigi Oddero",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 193,
             "name": "Finca Parera",
-            "country_id": 3
+            "country_id": 3,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 194,
             "name": "Finca Torremilanos",
-            "country_id": 3
+            "country_id": 3,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 195,
             "name": "Fio",
-            "country_id": 4
+            "country_id": 4,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 196,
             "name": "Flor de Luna Destilados",
-            "country_id": 25
+            "country_id": 25,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 197,
             "name": "Fognano",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 198,
             "name": "Foradori",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": false,
+            "knoxville": false,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 199,
             "name": "Franck Peillot",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": false,
+            "knoxville": false,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 200,
             "name": "Francoise Roumieux",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 201,
             "name": "Frank Cornelissen",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 202,
             "name": "Fred Jerbis",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 203,
             "name": "Fred",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 204,
             "name": "Frias Family Vineyard",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 205,
             "name": "Fritz Muller",
-            "country_id": 4
+            "country_id": 4,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 206,
             "name": "Fronton de Oro",
-            "country_id": 3
+            "country_id": 3,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 207,
             "name": "Gabrielskloof",
-            "country_id": 13
+            "country_id": 13,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 208,
             "name": "Garofoli",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 209,
             "name": "Georges Descombes",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": false,
+            "knoxville": false,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 210,
             "name": "Ettore Germano",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 211,
             "name": "Gernot & Heike Heinrich",
-            "country_id": 19
+            "country_id": 19,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 212,
             "name": "Gh\u00ebddo",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 213,
             "name": "Giannitessari",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 214,
             "name": "Gilbert",
-            "country_id": 6
+            "country_id": 6,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 215,
             "name": "Girolamo Russo",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 216,
             "name": "Glinavos",
-            "country_id": 5
+            "country_id": 5,
+            "chattanooga": true,
+            "knoxville": false,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 217,
             "name": "Gomez Cruzado",
-            "country_id": 3
+            "country_id": 3,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 218,
             "name": "Gravner",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 219,
             "name": "Grosjean",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 220,
             "name": "Mas De Daumas Gassac",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 221,
             "name": "Gunderloch",
-            "country_id": 4
+            "country_id": 4,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 222,
             "name": "Halara",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 223,
             "name": "Heaps Good Wine Company",
-            "country_id": 20
+            "country_id": 20,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 224,
             "name": "Herv\u00e9 Villemade",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": false,
+            "knoxville": false,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 225,
             "name": "Hiedler",
-            "country_id": 19
+            "country_id": 19,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 226,
             "name": "Domaine Hoffmann-Jayer",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 227,
             "name": "Il Censo",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 228,
             "name": "Il Gusto di Amalfi",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 229,
             "name": "Il Roccolo di Monticelli",
-            "country_id": 12
+            "country_id": 12,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 230,
             "name": "Immich-Batterieberg",
-            "country_id": 4
+            "country_id": 4,
+            "chattanooga": false,
+            "knoxville": false,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 231,
             "name": "Inama",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 232,
             "name": "Isle of Harris",
-            "country_id": 26
+            "country_id": 26,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 233,
             "name": "Isola delle Falcole",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 234,
             "name": "Salvo Foti-I Vigneri",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": false,
+            "knoxville": false,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 235,
             "name": "Ixsir",
-            "country_id": 10
+            "country_id": 10,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 236,
             "name": "J Brix",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 237,
             "name": "Jean Cave",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 238,
             "name": "Jeanne Marie",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 239,
             "name": "Germanier",
-            "country_id": 18
+            "country_id": 18,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 240,
             "name": "Joan Rubio",
-            "country_id": 3
+            "country_id": 3,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 241,
             "name": "Judge Palmer",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 242,
             "name": "Judith Beck",
-            "country_id": 19
+            "country_id": 19,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 243,
             "name": "Julien Pineau",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": false,
+            "knoxville": false,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 244,
             "name": "Jurtschitsch",
-            "country_id": 19
+            "country_id": 19,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 245,
             "name": "J. Vignier",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 246,
             "name": "Karth\u00e4userhof",
-            "country_id": 4
+            "country_id": 4,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 247,
             "name": "Von Buhl",
-            "country_id": 4
+            "country_id": 4,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 248,
             "name": "Keltis",
-            "country_id": 20
+            "country_id": 20,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 249,
             "name": "Kermit Lynch",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": false,
+            "memphis": false,
+            "nashville": false,
+            "broad_market": true
         },
         {
             "id": 250,
             "name": "Klanjscek",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 251,
             "name": "Kobal",
-            "country_id": 20
+            "country_id": 20,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 252,
             "name": "Koerner",
-            "country_id": 6
+            "country_id": 6,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 253,
             "name": "Kozlovic",
-            "country_id": 23
+            "country_id": 23,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 254,
             "name": "Kristinus Borbirtok",
-            "country_id": 27
+            "country_id": 27,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 255,
             "name": "Ktima Brintziki",
-            "country_id": 5
+            "country_id": 5,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 256,
             "name": "Kuenhof",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 257,
             "name": "La Biancara - Angiolino Maule",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": false,
+            "knoxville": false,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 258,
             "name": "La Collina",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 259,
             "name": "Lady Francoise",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 260,
             "name": "La Ferme d\u2019Hotte",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 261,
             "name": "La Flor y Abeja",
-            "country_id": 3
+            "country_id": 3,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 262,
             "name": "La Massa",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 263,
             "name": "La Miraja",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 264,
             "name": "Larmandier-Bernier",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 265,
             "name": "Laurent Barth",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": false,
+            "knoxville": false,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 266,
             "name": "Laurent Family Vineyard",
-            "country_id": 16
+            "country_id": 16,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 267,
             "name": "La Valentina",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 268,
             "name": "Lechuza",
-            "country_id": 3
+            "country_id": 3,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 269,
             "name": "Le Coeur de la Reine",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 270,
             "name": "Leitz",
-            "country_id": 4
+            "country_id": 4,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 271,
             "name": "Lelouvier",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 272,
             "name": "Ch\u00e2teau le Puy",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 273,
             "name": "Les Lunes",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 274,
             "name": "LIOCO",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": false,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 275,
             "name": "Liquore delle Sirene",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 276,
             "name": "Li Veli",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": false,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 277,
             "name": "L'Oliveto",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 278,
             "name": "L'Origan",
-            "country_id": 3
+            "country_id": 3,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 279,
             "name": "Loren",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 280,
             "name": "Domaine Louis Magnin",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 281,
             "name": "Lucien Crochet",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 282,
             "name": "Luigi Giordano",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 283,
             "name": "Luli Wines",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 284,
             "name": "Domaine Luneau-Papin",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": false,
+            "knoxville": false,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 285,
             "name": "Louis-Antoine Luyt",
-            "country_id": 16
+            "country_id": 16,
+            "chattanooga": false,
+            "knoxville": false,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 286,
             "name": "Macchia",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 287,
             "name": "Maidenstoen",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 288,
             "name": "Maison Valette",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 289,
             "name": "Maitre de Chai",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 290,
             "name": "Makarounas",
-            "country_id": 28
+            "country_id": 28,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 291,
             "name": "Malvira",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 292,
             "name": "Mandirola 1913",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 293,
             "name": "Manly Spirits Co. Distillery",
-            "country_id": 6
+            "country_id": 6,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 294,
             "name": "Domaine Marcel Richaud",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": false,
+            "knoxville": false,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 295,
             "name": "Marchesi di Gresy",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 296,
             "name": "Marenas",
-            "country_id": 3
+            "country_id": 3,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 297,
             "name": "Margins",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 298,
             "name": "Mary Taylor",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 299,
             "name": "Passy le Clou",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 300,
             "name": "MAS DES BRESSADES",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": false
         },
         {
             "id": 301,
             "name": "Mas des Chim\u00e8res",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": false,
+            "knoxville": false,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 302,
             "name": "Massa Vecchia",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": false,
+            "knoxville": false,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 303,
             "name": "Matthew Fritz",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 304,
             "name": "Matthiasson",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": false,
+            "broad_market": true
         },
         {
             "id": 305,
             "name": "Meinklang",
-            "country_id": 19
+            "country_id": 19,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 306,
             "name": "Mercat",
-            "country_id": 3
+            "country_id": 3,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 307,
             "name": "Mezcal Legendario Domingo",
-            "country_id": 25
+            "country_id": 25,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 308,
             "name": "Microbio",
-            "country_id": 3
+            "country_id": 3,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 309,
             "name": "Mile Post",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 310,
             "name": "Milou",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 311,
             "name": "Mingazzini",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 312,
             "name": "Monastero Suore Cistercensi",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 313,
             "name": "Monte Rio Cellars",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 314,
             "name": "Montmarte",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": false,
+            "broad_market": true
         },
         {
             "id": 315,
             "name": "Montparnasse",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 316,
             "name": "Mullineux",
-            "country_id": 13
+            "country_id": 13,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": false,
+            "broad_market": true
         },
         {
             "id": 317,
             "name": "Mustiguillo",
-            "country_id": 3
+            "country_id": 3,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 318,
             "name": "Mylonas Winery",
-            "country_id": 5
+            "country_id": 5,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 319,
             "name": "Neboa",
-            "country_id": 3
+            "country_id": 3,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 320,
             "name": "Neumeister",
-            "country_id": 19
+            "country_id": 19,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 321,
             "name": "Nine Oaks",
-            "country_id": 29
+            "country_id": 29,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 322,
             "name": "No\u00eblla Morantin",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": false,
+            "knoxville": false,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 323,
             "name": "Arianna Occhipinti",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": false,
+            "knoxville": false,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 324,
             "name": "Oddero",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 325,
             "name": "Oro de Coyame",
-            "country_id": 25
+            "country_id": 25,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 326,
             "name": "Orsi San Vito",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": false,
+            "knoxville": false,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 327,
             "name": "Overnoy-Crinquand",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 328,
             "name": "Oysterman",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 329,
             "name": "Paolo & Giampiero Bea",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 330,
             "name": "Maison Pascal Cl\u00e9ment",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 331,
             "name": "Patrick Piuze",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": false,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 332,
             "name": "Pavette",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 333,
             "name": "Domaine de la Dourbie - Petit Canet",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 334,
             "name": "Ch\u00e2teau du Petit Thouars",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 335,
             "name": "Ptujska Klet",
-            "country_id": 20
+            "country_id": 20,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 336,
             "name": "Philippe Chevarin",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": false,
+            "knoxville": false,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 337,
             "name": "Piemaggio",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 338,
             "name": "Pierre-Olivier Bonhomme",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": false,
+            "knoxville": false,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 339,
             "name": "Pikasi",
-            "country_id": 20
+            "country_id": 20,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 340,
             "name": "Pike Road",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": false,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 341,
             "name": "Pisador",
-            "country_id": 16
+            "country_id": 16,
+            "chattanooga": false,
+            "knoxville": false,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 342,
             "name": "Podere Giardino",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 343,
             "name": "Podere Le Boncie",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 344,
             "name": "Podrum Franjo",
-            "country_id": 23
+            "country_id": 23,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 345,
             "name": "Pomalo",
-            "country_id": 23
+            "country_id": 23,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 346,
             "name": "Populis",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 347,
             "name": "Primeiro Nome",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": false,
+            "knoxville": false,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 348,
             "name": "Primitivo Quiles",
-            "country_id": 3
+            "country_id": 3,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 349,
             "name": "Prost",
-            "country_id": 4
+            "country_id": 4,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 350,
             "name": "Quinta do Infantado",
-            "country_id": 14
+            "country_id": 14,
+            "chattanooga": false,
+            "knoxville": false,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 351,
             "name": "Quinta Milu",
-            "country_id": 3
+            "country_id": 3,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 352,
             "name": "Radoar",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": false,
+            "knoxville": false,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 353,
             "name": "Rebholz",
-            "country_id": 4
+            "country_id": 4,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 354,
             "name": "Redentore",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 355,
             "name": "Reinisch",
-            "country_id": 19
+            "country_id": 19,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 356,
             "name": "Rejon",
-            "country_id": 25
+            "country_id": 25,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 357,
             "name": "Requiem",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 358,
             "name": "Rhys Vineyards",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 359,
             "name": "Riff",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": false,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 360,
             "name": "Roccheviberti",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 361,
             "name": "Rodica",
-            "country_id": 20
+            "country_id": 20,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 362,
             "name": "Ron Colon",
-            "country_id": 12
+            "country_id": 12,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 363,
             "name": "Ch\u00e2teau D'Estoublon",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 364,
             "name": "Route 66",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 365,
             "name": "Rovellotti",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 366,
             "name": "Rumor",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 367,
             "name": "Saison Rum",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 368,
             "name": "Sanctum",
-            "country_id": 20
+            "country_id": 20,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 369,
             "name": "Sandy Cove",
-            "country_id": 30
+            "country_id": 30,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 370,
             "name": "San Fereolo",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 371,
             "name": "Sattler",
-            "country_id": 19
+            "country_id": 19,
+            "chattanooga": true,
+            "knoxville": false,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 372,
             "name": "Sauro Maule",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 373,
             "name": "Savino",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 374,
             "name": "Scaia",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 375,
             "name": "Schafer-Frohlich",
-            "country_id": 4
+            "country_id": 4,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 376,
             "name": "Sea Cove",
-            "country_id": 30
+            "country_id": 30,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 377,
             "name": "Domaine de Seaille",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 378,
             "name": "Sebastien Besson",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 379,
             "name": "Sebestyen",
-            "country_id": 27
+            "country_id": 27,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 380,
             "name": "Sedella",
-            "country_id": 3
+            "country_id": 3,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 381,
             "name": "Selvadolce",
-            "country_id": 12
+            "country_id": 12,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 382,
             "name": "Selvapiana",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 383,
             "name": "Seresin",
-            "country_id": 30
+            "country_id": 30,
+            "chattanooga": true,
+            "knoxville": false,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 384,
             "name": "Sierra De Tolono",
-            "country_id": 3
+            "country_id": 3,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 385,
             "name": "Sister's Run",
-            "country_id": 6
+            "country_id": 6,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 386,
             "name": "Skaramuca",
-            "country_id": 23
+            "country_id": 23,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 387,
             "name": "Skegro",
-            "country_id": 15
+            "country_id": 15,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 388,
             "name": "Domaine Skouras",
-            "country_id": 5
+            "country_id": 5,
+            "chattanooga": false,
+            "knoxville": true,
+            "memphis": false,
+            "nashville": false,
+            "broad_market": true
         },
         {
             "id": 389,
             "name": "Skull Wines",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 390,
             "name": "Snowden",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": false,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 391,
             "name": "Sohm & Kracher",
-            "country_id": 19
+            "country_id": 19,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 392,
             "name": "Solar del Alma",
-            "country_id": 8
+            "country_id": 8,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 393,
             "name": "Sonnhof Social Club",
-            "country_id": 19
+            "country_id": 19,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 394,
             "name": "Sorelle Bronca",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 395,
             "name": "SRC",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 396,
             "name": "Stekar",
-            "country_id": 20
+            "country_id": 20,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 397,
             "name": "Storm Point",
-            "country_id": 13
+            "country_id": 13,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 398,
             "name": "Subject to Change",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 399,
             "name": "Surrau",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 400,
             "name": "Tascante",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 401,
             "name": "Tenuta il Nespolo",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 402,
             "name": "Tenuta Santa Maria",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 403,
             "name": "Tenuta Sant'Antonio",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 404,
             "name": "Domaine des Terres Dor\u00e9es (Jean-Paul Brun)",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": false,
+            "knoxville": false,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 405,
             "name": "Terrevive",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 406,
             "name": "Testalonga",
-            "country_id": 13
+            "country_id": 13,
+            "chattanooga": false,
+            "knoxville": false,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 407,
             "name": "The Hilt",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 408,
             "name": "The Paring",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 409,
             "name": "Domaine Th\u00e9venet & Fils",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 410,
             "name": "Thomas & Fils",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 411,
             "name": "Tiberio",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 412,
             "name": "Tierra Noble",
-            "country_id": 25
+            "country_id": 25,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 413,
             "name": "Tiny Paradoxes",
-            "country_id": 6
+            "country_id": 6,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 414,
             "name": "Tomac",
-            "country_id": 23
+            "country_id": 23,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 415,
             "name": "Tomas Cusine",
-            "country_id": 3
+            "country_id": 3,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 416,
             "name": "Torre Tusini",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 417,
             "name": "Trig Point",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": false,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 418,
             "name": "Troupis",
-            "country_id": 5
+            "country_id": 5,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 419,
             "name": "Tutti Frutti Ananas",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": false,
+            "knoxville": false,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 420,
             "name": "Two Birds One Stone",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 421,
             "name": "Two Mountain",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 422,
             "name": "Two Wolves",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 423,
             "name": "Tyler",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": false,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 424,
             "name": "Unified Ferments",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 425,
             "name": "Uva de Vida",
-            "country_id": 3
+            "country_id": 3,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 426,
             "name": "Val de Mer",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": false,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 427,
             "name": "Vallevo",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 428,
             "name": "Valravn",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 429,
             "name": "Vassaltis Vineyards",
-            "country_id": 5
+            "country_id": 5,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 430,
             "name": "Verino",
-            "country_id": 5
+            "country_id": 5,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 431,
             "name": "Vietti",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 432,
             "name": "Vignobles Pueyo",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 433,
             "name": "Vila Voltaire",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 434,
             "name": "Villa Dora",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 435,
             "name": "Vina Coterro",
-            "country_id": 3
+            "country_id": 3,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": false,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 436,
             "name": "Vinatigo",
-            "country_id": 3
+            "country_id": 3,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 437,
             "name": "Violet Hill",
-            "country_id": 11
+            "country_id": 11,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 438,
             "name": "Vorspannhof Mayr",
-            "country_id": 19
+            "country_id": 19,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 439,
             "name": "Walnut Block",
-            "country_id": 30
+            "country_id": 30,
+            "chattanooga": true,
+            "knoxville": false,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 440,
             "name": "Franzen",
-            "country_id": 4
+            "country_id": 4,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 441,
             "name": "Fromm",
-            "country_id": 18
+            "country_id": 18,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 442,
             "name": "Heinrich Spindler",
-            "country_id": 4
+            "country_id": 4,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 443,
             "name": "Weingut Schmitt",
-            "country_id": 4
+            "country_id": 4,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 444,
             "name": "Wildman Wines",
-            "country_id": 6
+            "country_id": 6,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": false
         },
         {
             "id": 445,
             "name": "Winery of Good Hope",
-            "country_id": 13
+            "country_id": 13,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 446,
             "name": "Winestillery",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 447,
             "name": "Wolf & Woman",
-            "country_id": 6
+            "country_id": 6,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 448,
             "name": "Worlds Apart Wines",
-            "country_id": 6
+            "country_id": 6,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 449,
             "name": "Yetti & the Kokonut",
-            "country_id": 6
+            "country_id": 6,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 450,
             "name": "Zanasi",
-            "country_id": 1
+            "country_id": 1,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 451,
             "name": "Zero",
-            "country_id": 2
+            "country_id": 2,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 452,
             "name": "Zlatan Otok",
-            "country_id": 23
+            "country_id": 23,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 453,
             "name": "Zoe Wines",
-            "country_id": 5
+            "country_id": 5,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         },
         {
             "id": 454,
             "name": "Zorzal",
-            "country_id": 3
+            "country_id": 3,
+            "chattanooga": true,
+            "knoxville": true,
+            "memphis": true,
+            "nashville": true,
+            "broad_market": true
         }
     ],
     "products": [
