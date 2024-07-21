@@ -13,16 +13,7 @@
 
 <body>
 
-  <header>
-    <h1>Wine Portfolio</h1>
-  </header>
-
-  <nav>
-    <a href="index.html">Home</a>
-    <a href="#">Countries</a>
-    <a href="#">Producers</a>
-    <a href="#">Wines</a>
-  </nav>
+  <header></header>
 
   <main>
     <h2>Countries</h2>
@@ -41,7 +32,6 @@
           .then(data => {
             console.log("Data fetched successfully:", data);
             const countryList = document.getElementById('country-list');
-            // Sort the countries array alphabetically by name
             data.countries.sort((a, b) => a.name.localeCompare(b.name));
             data.countries.forEach(country => {
               if (country.name) { // Check for valid country names
@@ -57,9 +47,9 @@
     </script>
   </main>
 
-  <footer>
-    <p>&copy; 2024 Wine Portfolio</p>
-  </footer>
+  <footer></footer>
+
+  <script src="js/loadHeaderFooter.js"></script>
 
 </body>
 

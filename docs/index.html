@@ -9,87 +9,11 @@
   <link rel="stylesheet" href="css/style.css">
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-Fo3rlrZj/k7ujTnHgSpEmN0nLFxt6+8Nu9YAbI2XgshHe2R4d+RtWJ4Z2w6fE6GHtRw5oGQZFSZ4oOhbVxrLg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-  <style>
-    body {
-      font-family: 'Roboto', sans-serif;
-      margin: 0;
-      display: flex;
-      flex-direction: column;
-      min-height: 100vh;
-    }
-
-    header, footer {
-      background-color: #333;
-      color: white;
-      padding: 1rem;
-      text-align: center;
-    }
-
-    nav {
-      display: flex;
-      justify-content: center;
-      background-color: #444;
-      padding: 0.5rem;
-    }
-
-    nav a {
-      color: white;
-      text-decoration: none;
-      margin: 0 1rem;
-    }
-
-    nav a:hover {
-      text-decoration: underline;
-    }
-
-    main {
-      flex: 1;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      flex-direction: column;
-      padding: 2rem;
-    }
-
-    .grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-      gap: 1rem;
-    }
-
-    .card {
-      background-color: white;
-      border: 1px solid #ccc;
-      border-radius: 0.5rem;
-      padding: 1rem;
-      text-align: center;
-      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    }
-
-    .card a {
-      color: #333;
-      text-decoration: none;
-      font-weight: bold;
-    }
-
-    .card a:hover {
-      text-decoration: underline;
-    }
-  </style>
 </head>
 
 <body>
 
-  <header>
-    <h1>Wine Portfolio</h1>
-  </header>
-
-  <nav>
-    <a href="#">Home</a>
-    <a href="#">Countries</a>
-    <a href="#">Producers</a>
-    <a href="#">Wines</a>
-  </nav>
+  <header></header>
 
   <main>
     <h2>Select your market</h2>
@@ -101,9 +25,9 @@
     </div>
   </main>
 
-  <footer>
-    <p>&copy; 2024 Wine Portfolio</p>
-  </footer>
+  <footer></footer>
+
+  <script src="js/loadHeaderFooter.js"></script>
 
 </body>
 
