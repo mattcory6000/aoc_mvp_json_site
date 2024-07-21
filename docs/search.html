@@ -16,14 +16,17 @@
   <header></header>
 
   <main>
-    <h2>Search</h2>
-    <input type="text" id="search-input" placeholder="Search products...">
+    <div class="search-container">
+      <p id="selected-market-message"></p>
+      <input type="text" id="search-input" placeholder="Search by Producer, Item, Region, etc.">
+    </div>
     <div class="grid" id="search-results"></div>
 
     <script>
       document.addEventListener("DOMContentLoaded", function() {
         const searchInput = document.getElementById('search-input');
         const searchResults = document.getElementById('search-results');
+        const selectedMarketMessage = document.getElementById('selected-market-message');
         const selectedMarket = localStorage.getItem('selectedMarket');
 
         if (!selectedMarket) {
@@ -31,6 +34,8 @@
           window.location.href = 'index.html';
           return;
         }
+
+        selectedMarketMessage.textContent = `Selected Market: ${selectedMarket}`;
 
         searchInput.addEventListener('input', function() {
           const query = searchInput.value.toLowerCase();

@@ -33,20 +33,43 @@ nav a:hover {
 main {
   flex: 1;
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
   flex-direction: column;
   padding: 2rem;
   width: 100%;
 }
 
+.search-container {
+  width: 100%;
+  max-width: 800px;
+  margin: 1rem 0;
+  text-align: center;
+}
+
+#search-input {
+  width: 100%;
+  padding: 1rem;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+#selected-market-message {
+  margin-top: 1rem;
+  font-weight: bold;
+  text-align: left;
+  width: 100%;
+}
+
 .grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-template-columns: 1fr;
   gap: 1.5rem;
   width: 100%;
-  max-width: 1200px;
-  margin: 0 auto;
+  max-width: 800px;
+  margin: 2rem auto;
 }
 
 .card {
@@ -67,6 +90,8 @@ main {
   color: #333;
   text-decoration: none;
   font-weight: bold;
+  text-align: left;
+  display: block;
 }
 
 .card a:hover {
