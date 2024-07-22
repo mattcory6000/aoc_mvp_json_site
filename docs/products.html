@@ -56,7 +56,7 @@
 
             filteredProducts.forEach(product => {
               const div = document.createElement('div');
-              div.className = 'card';
+              div.className = 'card product-card';
               div.innerHTML = `<a href="#">${product.name}</a>`;
               productList.appendChild(div);
             });
@@ -68,7 +68,7 @@
 
   <footer></footer>
 
-  <script src="js/loadHeaderFooter.js"></script>
+  <script src="js/loadPageSections.js"></script>
 
 </body>
 

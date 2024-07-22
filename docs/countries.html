@@ -36,7 +36,7 @@
             data.countries.forEach(country => {
               if (country.name) { // Check for valid country names
                 const div = document.createElement('div');
-                div.className = 'card';
+                div.className = 'card country-card';
                 div.innerHTML = `<a href="producers.html?country_id=${country.id}">${country.name}</a>`;
                 countryList.appendChild(div);
               }
@@ -49,7 +49,7 @@
 
   <footer></footer>
 
-  <script src="js/loadHeaderFooter.js"></script>
+  <script src="js/loadPageSections.js"></script>
 
 </body>
 
