@@ -14,7 +14,7 @@ body {
   overflow: hidden;
   position: relative;
   text-align: center; /* Center the banner image */
-  padding: 0px; /* Optional: Add some padding around the banner */
+  padding: 0; /* Optional: Add some padding around the banner */
 }
 
 .banner img {
@@ -144,6 +144,10 @@ main {
   text-decoration: underline;
 }
 
+.button-wrapper {
+  margin: 40px 0; /* Adjust the value as needed for more or less vertical space */
+}
+
 button, .btn {
   background-color: #ff6347;
   color: white;
@@ -152,6 +156,8 @@ button, .btn {
   border-radius: 0.5rem;
   cursor: pointer;
   transition: background-color 0.3s;
+  text-decoration: none; /* Remove underline */
+
 }
 
 button:hover, .btn:hover {
@@ -255,7 +261,8 @@ footer {
 }
 
 .contact-grid {
-  grid-template-columns: 1fr;
+  display: flex; /* Changed to flex for centering */
+  justify-content: center; /* Center the contact section */
   margin: 2rem 0;
 }
 
@@ -264,6 +271,9 @@ footer {
   padding: 2rem;
   border-radius: 0.5rem;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 400px; /* Default maximum width for smaller screens */
+  box-sizing: border-box;
 }
 
 .contact-section h1 {
@@ -297,15 +307,24 @@ footer {
 }
 
 .btn {
-  background-color: #ff6347;
-  color: white;
-  padding: 0.75rem 1.5rem;
-  border: none;
-  border-radius: 0.5rem;
+  padding: 10px 20px;
   cursor: pointer;
-  transition: background-color 0.3s;
 }
 
 .btn:hover {
   background-color: #e5533d;
 }
+
+/* Styles for wider screens */
+@media (min-width: 768px) {
+  .contact-section {
+    max-width: 600px; /* Adjust this value as needed */
+  }
+}
+
+@media (min-width: 1024px) {
+  .contact-section {
+    max-width: 800px; /* Adjust this value as needed */
+  }
+}
+
