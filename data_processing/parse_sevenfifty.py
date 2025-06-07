@@ -4,13 +4,34 @@ import os
 
 
 def parse_tags(tag):
-    return {
+    """Return a dictionary of market flags parsed from ``tag``.
+
+    ``tag`` values from the spreadsheet may contain non-standard strings such as
+    "Unknown" or ``None``.  The tag string is normalised to uppercase and each
+    market letter (C/K/M/N) is checked for membership.  If none of the market
+    letters are present then all flags, including ``broad_market``, are ``False``.
+    """
+
+    tag = str(tag or "").upper()
+
+    flags = {
         "chattanooga": "C" in tag,
         "knoxville": "K" in tag,
         "memphis": "M" in tag,
         "nashville": "N" in tag,
-        "broad_market": "X" not in tag,
     }
+
+    any_market = any(flags.values())
+
+    flags["broad_market"] = any_market and "X" not in tag
+
+    if not any_market:
+        # When the tag string does not contain any recognised market letters,
+        # treat all market flags as False, including ``broad_market``.
+        for key in flags:
+            flags[key] = False
+
+    return flags
 
 
 def parse_data(input_file, output_file):
