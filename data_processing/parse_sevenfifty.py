@@ -58,9 +58,10 @@ def parse_data(input_file, output_file):
         country_id = country_id_map[country_name]
 
         # Handle producer
+        new_tags = parse_tags(tag)
         if producer_name not in producer_id_map:
             producer_id_map[producer_name] = next_producer_id
-            producer_market_map[producer_name] = parse_tags(tag)
+            producer_market_map[producer_name] = new_tags
             data["producers"].append(
                 {
                     "id": next_producer_id,
@@ -70,6 +71,18 @@ def parse_data(input_file, output_file):
                 }
             )
             next_producer_id += 1
+        else:
+            # Merge market info with any existing tags for this producer
+            existing_tags = producer_market_map[producer_name]
+            for market in ["chattanooga", "knoxville", "memphis", "nashville"]:
+                existing_tags[market] = existing_tags[market] or new_tags[market]
+            existing_tags["broad_market"] = (
+                existing_tags["broad_market"] and new_tags["broad_market"]
+            )
+            # Update the producer entry in-place
+            producer_idx = producer_id_map[producer_name] - 1
+            for key, val in existing_tags.items():
+                data["producers"][producer_idx][key] = val
 
         producer_id = producer_id_map[producer_name]
 
@@ -95,7 +108,7 @@ def parse_data(input_file, output_file):
             "available": available,
             "search_string": search_string,
         }
-        product_entry.update(parse_tags(tag))
+        product_entry.update(new_tags)
         data["products"].append(product_entry)
 
     # Write to JSON file
