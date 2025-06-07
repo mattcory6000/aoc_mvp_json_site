@@ -1,4 +1,4 @@
-This is an MVP for a public-and-trade facing website for AOC, a wine distributors in Tennessee.
+This is an MVP for a public-and-trade facing website for AOC, a wine distributor in Tennessee.
 
 The initial version relies on a large, single JSON file containing their portfolio data, which provides the content for the various pages.
 
