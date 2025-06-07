@@ -1,4 +1,3 @@
-import pandas as pd
 import json
 import os
 
@@ -14,6 +13,8 @@ def parse_tags(tag):
 
 
 def parse_data(input_file, output_file):
+    import pandas as pd
+
     # Read the input file (XLSX)
     df = pd.read_excel(input_file)
 
